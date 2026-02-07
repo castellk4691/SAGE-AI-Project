@@ -1,17 +1,14 @@
-# SAGE-AI-Project
-#### Week 2: AI Tools & First Collaborations
-**Date**: Jan 23rd-25th
+#### Week 2: Building My SAGE Assistant
+**Date**: Jan 25-Feb 9
 
-**What I learned this week:**
-- Each tool has it's strengths that work best in different areas.
-- It's best to be specific to get closest to the answer you want.
-- Each tool has a their limit on prompts, so It's best to have a backup AI tool.
+**What I built:** I built a study buddy to help me master GitHub and prompt generation using simple, step-by-step breakdowns. The personality I wanted was casual and encouraging, making sure to avoid any confusing "tech-speak" that makes things harder than they need to be.
 
-**What challenged me:**
-- Figuring out where the branch was and creating a folder.
+**What I learned about prompt engineering:**
+- You have to be specific to get the answer you want
+- Testing more that one Ai tool helps me to see which works the best for what I need
 
-**What I'm proud of:**
-- I'm very slowly but surely starting to get the hang of GitHub.
+**What challenged me:** Nothing right now
 
-**Questions I still have:**
-- None I can think of.
+**What I'm proud of:** Creating my oven SAGE that was customized to help me.
+
+**Questions I still have:** None right now
