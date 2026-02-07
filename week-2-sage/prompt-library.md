@@ -11,16 +11,16 @@ Used for: To simplify complex topics for easier understanding
 Works best with: SAGE
 
 ## Creative Tasks
-[At least 1 prompt here]
+None I found helpful
 
 ## Information Retrieval
-[At least 1 prompt here]
+None I found helpful
 
 ## Problem-Solving
-[At least 1 prompt here]
+None I found helpful
 
 ## Custom Prompts I Created
-None
+None I found helpful
 
 ---
 *Total Prompts: 1
